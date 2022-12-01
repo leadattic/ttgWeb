@@ -1,0 +1,27 @@
+body { 
+    
+    font-family: sans-serif;
+    background-color: #ededed;
+
+  
+}img.resize {
+    width: 100%; /* you can use % */
+    height: 100%;
+}
+#centralize{
+    text-align: center;
+
+}
+.card{
+    margin: 20px;
+    border: 5px solid #C5EAFA ;
+    background-color: palevioletred;
+    width: 200px;
+    height: 260px;
+    border-radius: 12px;
+}
+#mbr{
+    margin-left: 55px;
+    margin-top: 65px;
+}
+    
